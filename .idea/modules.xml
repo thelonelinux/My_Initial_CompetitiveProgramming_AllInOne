@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CPPFastReaderAndWriter/CPPFastReaderAndWriter.iml" filepath="$PROJECT_DIR$/CPPFastReaderAndWriter/CPPFastReaderAndWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeChefLongChallengeJuly2020AndBeyond/CodeChefLongChallengeJuly2020AndBeyond.iml" filepath="$PROJECT_DIR$/CodeChefLongChallengeJuly2020AndBeyond/CodeChefLongChallengeJuly2020AndBeyond.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CompetitiveProgrammingAllInOne.iml" filepath="$PROJECT_DIR$/.idea/CompetitiveProgrammingAllInOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFastReaderAndWriter/JavaFastReaderAndWriter.iml" filepath="$PROJECT_DIR$/JavaFastReaderAndWriter/JavaFastReaderAndWriter.iml" />
     </modules>
