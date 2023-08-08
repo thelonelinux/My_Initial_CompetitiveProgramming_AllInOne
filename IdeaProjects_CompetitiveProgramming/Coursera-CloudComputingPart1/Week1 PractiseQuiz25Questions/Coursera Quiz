@@ -1,0 +1,23 @@
+coursera 13th questions answer.
+
+Q(9)cbed
+ans->Alice
+
+Q(13)which is the fastest to access for the cpu?
+Ans->Registers;
+
+
+Q(14)In an executing process, the program counter point _______.
+Ans->To he currently-being execruted line numver of low-level(e.g. machine-level)
+     program derived  by compiling the c++ program you worte;
+
+
+Q(16)Insertionn sorting of an unsorted array of size N takes time_____.
+Ans O(n^2);
+
+Q(21)
+Ans-> for now is O(N); it was wrong answer also (confusing) was too wrong ans 
+      But possibly doubt in O(n^3) also;
+
+Q25
+and->O(n^2)
